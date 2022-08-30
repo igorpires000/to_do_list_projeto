@@ -33,7 +33,7 @@ const saveTodo = (text) =>{
 
     todoList.appendChild(todo);
 
-    todoInput.value= "";
+    todoInput.value = "";
     todoInput.focus();
 
 
